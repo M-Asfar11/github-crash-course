@@ -12,8 +12,3 @@ def sayname():
 def isAbove18():
     return age > 19
 
-def sum():
-    return a 
-
-def newfun():
-    print("i am new function")
