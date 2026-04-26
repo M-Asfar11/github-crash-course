@@ -7,3 +7,8 @@ print(name)
 
 def sayname():
     print("asfar")
+
+
+def isAbove18():
+    return age > 19
+
