@@ -14,3 +14,6 @@ def isAbove18():
 
 def sum():
     return a 
+
+def newfun():
+    print("i am new function")
