@@ -16,5 +16,4 @@ def newfeatureadd():
     print("new feature added")
     print("new feature added a")
     print("new feature added b")
-    print("new feature added c")
     print("new feature added cc")
